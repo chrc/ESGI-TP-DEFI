@@ -4,6 +4,8 @@ Documentation :
 Solidity : https://solidity.readthedocs.io/en/v0.5.15/  
 Truffle & Ganache : https://www.trufflesuite.com/
 
+cf. https://github.com/dappuniversity/defi_tutorial, https://www.youtube.com/watch?v=CgXQC4dbGUE
+
 ## About
 
 In this TP, you are going to build a staking farm that will allows users to stake a stable coin like DAI and get rewarded with your own farm token.
